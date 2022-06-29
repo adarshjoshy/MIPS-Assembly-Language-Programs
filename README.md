@@ -1,5 +1,9 @@
 # MIPS-Assembly-Language-Programs
+
 This repository contains example programs written in MIPS assembly language.
+
+[![Github repo size](https://img.shields.io/github/languages/code-size/adarshjoshy/MIPS-Assembly-Language-Programs)](https://github.com/adarshjoshy/MIPS-Assembly-Language-Programs)
+[![GitHub top language](https://img.shields.io/github/languages/top/adarshjoshy/MIPS-Assembly-Language-Programs?color=green)](https://github.com/adarshjoshy/MIPS-Assembly-Language-Programs)
 
 ### MIPS
 <ul>
